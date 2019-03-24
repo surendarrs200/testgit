@@ -11,7 +11,7 @@ import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;
 import java.io.*;
 import java.awt.Graphics2D;
-	@SuppressWarnings("serial")
+	@SuppressWarnings("sdf dfs sfdg gdsfserial")
 	public class img extends HttpServlet {
 		String desktopPath1 = System.getProperty("user.home") + "/Desktop";
 		String desktopPath = desktopPath1.replace("\\", "/");
