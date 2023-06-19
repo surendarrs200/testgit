@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 jhhhhhjj
+=======
+ssssss
+>>>>>>> origin/dev
 import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileInputStream;
@@ -9,7 +13,11 @@ import javax.servlet.http.*;
 import java.sql.*;
 import java.awt.image.BufferedImage;
 import javax.imageio.ImageIO;s sd sd
+<<<<<<< HEAD
 import java.io.*;hjvhj hjb5vb5j
+=======
+import java.io.*;hjvhj hjb5vb5j 
+>>>>>>> origin/dev
 import java.awt.Graphics2D;
 	@SuppressWarnings("sdf dfs sfdg gdsfserial")
 	public class img extends HttpServlet {
