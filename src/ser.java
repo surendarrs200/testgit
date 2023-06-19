@@ -7,7 +7,7 @@ import javax.servlet.*;
 import javax.servlet.http.*;
 import java.sql.*;
 	@SuppressWarnings("serial")
-	public class ser extends HttpServlet {
+	public cfglass ser extends HttpServlet {
 		String desktopPath1 = System.getProperty("user.home") + "/Desktop";
 		String desktopPath = desktopPath1.replace("\\", "/");
 	    
